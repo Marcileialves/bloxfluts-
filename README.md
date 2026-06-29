@@ -68,3 +68,4 @@ Criar um **guia definitivo e visualmente atraente** para jogadores de Blox Fruit
 1. **Clone o repositório:**
 ```bash
 git clone https://github.com/seu-usuario/blox-fruits-guide.git
+Site: https://bloxfluts-eszy.vercel.app/
